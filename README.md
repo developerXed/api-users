@@ -4,7 +4,7 @@ this is a simple application with node.js and typescript plus docker.
 
 How to Run?
 
-Make sure that, you have installed Docker on your machine before proceeding.:
+Make sure that, you have installed Docker on your machine before proceeding
 
  npm install 
  docker build -t api-users .
