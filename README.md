@@ -1,4 +1,4 @@
-# node.js users simple api
+# node.js simple api
 
 this is a simple application with node.js and typescript plus docker.
 
