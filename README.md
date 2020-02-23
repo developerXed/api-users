@@ -1,6 +1,4 @@
-# node.js simple api
-
-this is a simple application with node.js and typescript plus docker.
+# node.js simple api with typescript and docker
 
 How to Run?
 
